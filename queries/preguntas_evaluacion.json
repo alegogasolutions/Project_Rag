@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "¿Dónde se encuentra el Parque Nacional de Doñana?",
+        "esperado": "En las provincias de Huelva y Sevilla, en Andalucía."
+    },
+    {
+        "pregunta": "¿Qué superficie tiene el Parque Nacional de Doñana?",
+        "esperado": "54.251,65 hectáreas."
+    },
+    {
+        "pregunta": "¿Qué superficie tiene el Parque Natural de Doñana?",
+        "esperado": "68.236,40 hectáreas."
+    },
+    {
+        "pregunta": "¿Qué ecosistemas están representados en el Parque Nacional?",
+        "esperado": "Lagunas, marismas, dunas móviles, playa, monte mediterráneo y pinar."
+    },
+    {
+        "pregunta": "¿En qué año fue declarado el Parque Nacional de Doñana?",
+        "esperado": "1969."
+    },
+    {
+        "pregunta": "¿Qué servicios ofrecen los centros de visitantes?",
+        "esperado": "Recepción e información, y según el centro, exposiciones y audiovisuales."
+    },
+    {
+        "pregunta": "¿Cuánto mide el sendero Laguna del Acebuche?",
+        "esperado": "1,5 kilómetros."
+    },
+    {
+        "pregunta": "¿Qué se puede observar en el sendero Laguna del Acebuche?",
+        "esperado": "La zona de cotos, la orilla sur de una antigua laguna recuperada y aves desde los observatorios."
+    },
+    {
+        "pregunta": "¿Qué carretera permite llegar al centro de visitantes El Acebuche?",
+        "esperado": "La A-483, entre El Rocío y Matalascañas."
+    },
+    {
+        "pregunta": "¿Cuántos habitantes tiene exactamente el municipio de Hinojos?",
+        "esperado": "No dispongo de información suficiente en el corpus para responder a esta pregunta."
+    }
+]
